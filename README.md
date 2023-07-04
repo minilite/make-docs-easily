@@ -16,6 +16,6 @@
 
   Modern.js Doc 是字节跳动推出的一款面向文档站场景的前端框架，该文档框架的初衷是给公司内部的技术产品提供文档站搭建的解决方案，并满足内部的一些特殊需求，如跨站点搜索服务等。相对比而已，更加符合国内开发者的习惯。
 
-欢迎访问 [我的博客] (https://www.minilite.cn) 查看关于此仓库的文章:
+欢迎访问 <a href="https://www.minilite.cn" target="_blank"> 查看相关文章:
 
 [搭建文档项目的三个前端框架](https://www.minilite.cn/blog/build-a-docs-project-with-astro)
