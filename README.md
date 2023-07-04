@@ -18,4 +18,4 @@
 
 欢迎访问 <a href="https://www.minilite.cn" target="_blank">我的博客</a> 查看相关文章:
 
-[搭建文档项目的三个前端框架](https://www.minilite.cn/blog/build-a-docs-project-with-astro)
+- [搭建文档项目的三个前端框架](https://www.minilite.cn/blog/build-a-docs-project-with-astro)
